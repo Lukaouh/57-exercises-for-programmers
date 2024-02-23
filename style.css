@@ -46,7 +46,7 @@ input{
 }
 
 span{
-    width: 200px;
+    width: 220px;
     display: grid;
     margin: 0 10px 10px 5px;
     font-family: monospace;
@@ -60,3 +60,4 @@ span{
     align-items: stretch;
     margin-top: 50px;
 }
+
